@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinsEditor", "SkinsEditor.csproj", "{DB56AA86-AD18-4F54-9087-939317F5E9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteFly", "..\notefly\NoteFly.csproj", "{2E47E4D6-04CC-4578-8380-95AA497D3341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPlugin", "..\notefly\IPlugin\IPlugin.csproj", "{CD4BAEB8-114A-4C3E-8933-DDF9471E48DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB56AA86-AD18-4F54-9087-939317F5E9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB56AA86-AD18-4F54-9087-939317F5E9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB56AA86-AD18-4F54-9087-939317F5E9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB56AA86-AD18-4F54-9087-939317F5E9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E47E4D6-04CC-4578-8380-95AA497D3341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E47E4D6-04CC-4578-8380-95AA497D3341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E47E4D6-04CC-4578-8380-95AA497D3341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E47E4D6-04CC-4578-8380-95AA497D3341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4BAEB8-114A-4C3E-8933-DDF9471E48DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4BAEB8-114A-4C3E-8933-DDF9471E48DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4BAEB8-114A-4C3E-8933-DDF9471E48DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4BAEB8-114A-4C3E-8933-DDF9471E48DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
